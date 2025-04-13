@@ -1,4 +1,4 @@
-# 🎓 Student Management System (CS2263 Project)
+# 🎓 Student Grade Management System (CS2263 Project)
 📌 Project Description
 This project is a C-based Student Management System designed to perform comprehensive student data handling using linked lists and CSV file operations. It offers an interactive menu-driven interface to add, search, delete, modify, and visualize student records.
 
