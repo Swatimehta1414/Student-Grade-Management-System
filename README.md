@@ -10,7 +10,7 @@ Developed as part of CS2263, the system integrates practical C programming conce
 
  - Muhammad Jahanzib
 
-🚀 Features
+# 🚀 Features
 - ✅ Add, Delete, and Modify Students
 - ✅ Store & Load from CSV
 - ✅ GPA Calculation using Weighted Conversion
