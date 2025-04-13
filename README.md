@@ -43,10 +43,10 @@ Developed as part of CS2263, the system integrates practical C programming conce
 
 # File Structure
 File	Description
-main.c	  - Entry point for the system (menu logic)
-student.c	- Core functions visualization, file I/O
-student.h	- Function prototypes and data structure
-test_main.c - 	Unit tests for GPA calculation and search
-main2.c	- Additional test driver
-Makefile	- Compilation instructions
-students.csv	- Data file generated/used at runtime
+- main.c	  - Entry point for the system (menu logic)
+- student.c	- Core functions visualization, file I/O
+- student.h	- Function prototypes and data structure
+- test_main.c - 	Unit tests for GPA calculation and search
+- main2.c	- Additional test driver
+- Makefile	- Compilation instructions
+- students.csv	- Data file generated/used at runtime
